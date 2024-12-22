@@ -1,0 +1,91 @@
+/* .homepage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('./asserts/56.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    margin: 55px 0 0;
+    margin-bottom: 25%;
+}
+.box{
+    margin: auto;
+  border: 10px solid transparent;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  height: 35%;
+  padding: 5px 25px;
+}
+.box:hover{
+    background-color: black;
+    color:orange;
+    box-shadow: 0 0 5px lightcoral,0 0 25px lightcoral,0 0 50px lightcoral,0 0 200px lightcoral;;
+    
+    transition: 0.5s;
+    transform: scale(1.03);
+}
+.box button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:  35%;
+    margin-top: 15%;
+    margin-right: 20%;
+    border: 5px solid rgb(81, 82, 83);
+    padding: 8px 10px ;
+
+}
+
+.box button:hover{
+    background-color: white;
+    color:black;
+
+    letter-spacing: 1px;
+    transition: 0.5s;
+    font-weight: 700;
+   filter: drop-shadow(0 0 20px orange); 
+}
+.navbar{
+    position: fixed;
+    top:0;
+    width: 99%;
+    height: 85px;
+    background-color:black;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+     
+  }
+  .logo{
+    color: orange;
+  }
+  nav a{
+    color:black;
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 15px;
+    padding: 2px 10px;
+    border-color:red;
+     
+  }
+  nav a:hover{
+    color: black;
+    background-color: white;
+    letter-spacing: 5px;
+    transition: 0.5s;
+  }
+  ul{
+    display: flex;
+    margin-top: 35px;
+    gap:40px;
+    list-style: none;
+    color: black;
+    text-decoration: none;
+    margin-right: 2%;
+  }
+   */
